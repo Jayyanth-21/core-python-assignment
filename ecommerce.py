@@ -52,5 +52,5 @@ class Ecommerce:
             except ValueError:
                 print("Invalid input. Please enter a number.")
 
-sh = Ecommerce()git
+sh = Ecommerce()
 sh.shop()
